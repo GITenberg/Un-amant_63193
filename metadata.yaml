@@ -1,0 +1,44 @@
+_repo: Un-amant_63193
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wyzewa, Teodor de
+    aliases:
+    - Wyzewa, Théodore de
+    - Wyzewa, T. de (Teodor)
+    - Wyzewa, Téodor de
+    - Wyzewski, Teodor
+    - Wyzewa, Theodore de
+    - De Wyzewa, Teodor
+    birthdate: 1862
+    deathdate: 1917
+    gutenberg_agent_id: '42402'
+    url: http://www.gutenberg.org/2009/agents/42402
+    wikipedia:
+    - https://en.wikipedia.org/wiki/T%C3%A9odor_de_Wyzewa
+    - https://fr.wikipedia.org/wiki/Th%C3%A9odore_de_Wyzewa
+creator:
+  author:
+    agent_name: Brontë, Emily
+    aliases:
+    - Bronte, Emily
+    - Brontë, Emily Jane
+    - Bell, Ellis
+    birthdate: 1818
+    deathdate: 1848
+    gutenberg_agent_id: '405'
+    url: http://www.gutenberg.org/2009/agents/405
+    wikipedia: https://en.wikipedia.org/wiki/Emily_Brontë
+description: ''
+gutenberg_issued: '2020-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63193'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Un amant
+url: http://www.gutenberg.org/ebooks/63193
