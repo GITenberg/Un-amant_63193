@@ -1,5 +1,5 @@
 _repo: Un-amant_63193
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Wyzewa, Teodor de
@@ -17,6 +17,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/T%C3%A9odor_de_Wyzewa
     - https://fr.wikipedia.org/wiki/Th%C3%A9odore_de_Wyzewa
+covers:
+- cover_type: archival
+  image_path: 63193-h/images/amant_cover.jpg
 creator:
   author:
     agent_name: Brontë, Emily
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/405
     wikipedia: https://en.wikipedia.org/wiki/Emily_Brontë
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63193#Un-amant
 gutenberg_issued: '2020-09-13'
 gutenberg_type: Text
 identifiers:
